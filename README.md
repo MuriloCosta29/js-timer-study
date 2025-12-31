@@ -17,4 +17,4 @@ Este projeto focou em consolidar conhecimentos fundamentais:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/MuriloCosta29/js-timer-study.git](https://github.com/MuriloCosta29/js-timer-study.git)
+   git clone https://github.com/MuriloCosta29/js-timer-study.git
