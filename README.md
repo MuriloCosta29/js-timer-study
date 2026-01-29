@@ -18,3 +18,8 @@ Este projeto focou em consolidar conhecimentos fundamentais:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/MuriloCosta29/js-timer-study.git
+   ```
+2. Abra o arquivo no seu navegador.
+
+## 📌 Créditos
+Créditos: Este projeto foi desenvolvido como parte do curso "JavaScript e TypeScript do básico ao avançado" do professor Luiz Otávio Miranda. O código reflete meu estudo e aplicação prática dos conceitos ensinados nas aulas.
